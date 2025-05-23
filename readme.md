@@ -28,8 +28,8 @@ pip install mysql-connector-python
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atm-simulation.git
-   cd atm-simulation
+   git clone https://github.com/raidopaas/atm_simulation.git
+   cd atm_simulation
    ```
 
 2. Create a `config.py` file in the project directory with your database credentials:
